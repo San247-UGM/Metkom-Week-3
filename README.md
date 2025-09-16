@@ -1,1 +1,2 @@
-# Metkom-Week-3
+#hari ini belajar git dan github
+#masih bingung
